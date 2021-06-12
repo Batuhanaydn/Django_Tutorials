@@ -1,0 +1,16 @@
+li a {
+    color: green;
+    border: tomato;
+}
+li {
+    color: greenyellow;
+}
+ul{
+    border: teal thin;
+}
+input {
+    color: tomato;
+}
+.background{
+    background-image: white url(img/Supermarket_shells_no1.jpg) no-repeat;
+}
